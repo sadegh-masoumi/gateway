@@ -1,0 +1,12 @@
+[
+    {
+        "pk": 12344,
+        "type": "accept",
+        "content":"x",
+        "canceled": false
+    },
+    {
+        "pk": 12344,
+        "type": "cancel"
+    }
+]
